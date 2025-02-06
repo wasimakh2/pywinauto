@@ -8,3 +8,4 @@ rst2pdf
 Sphinx
 mock==2.0.0
 codacy-coverage
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
